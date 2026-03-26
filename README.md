@@ -33,6 +33,16 @@ Este portfólio tem como foco:
 
 Os projetos aqui presentes representam diferentes cenários de aprendizado e evolução técnica, podendo variar em complexidade e abordagem conforme o contexto de estudo.
 
+## 📁 Estrutura do Repositório
+
+Os projetos estão organizados em arquivos `.zip` devido ao tamanho e à diversidade de tecnologias utilizadas.
+
+Cada arquivo contém um projeto completo de automação, incluindo:
+
+- Estrutura de testes
+- Configuração do ambiente
+- Exemplos práticos de execução
+
 ---
 
 📌 Este repositório faz parte do meu portfólio profissional como QA Engineer.
